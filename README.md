@@ -10,6 +10,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 Just a list, made to get in touch for the first time with react State, and react components
 
+Credits to "The Ultimate React Course 2024: React, Next.js, Redux & More"
+Created by Jonas Schmedtmann
+
 ## Available Scripts
 
 In the project directory, you can run:
